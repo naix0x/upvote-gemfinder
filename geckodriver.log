@@ -1,0 +1,45 @@
+1703085883974	geckodriver	INFO	Listening on 127.0.0.1:53201
+1703085884864	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/bin ... 80" "--remote-debugging-port" "60577" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileWcDhJQ"
+*** You are running in headless mode.
+1703085892597	Marionette	INFO	Listening on port 44985
+1703085892673	Marionette	WARN	TLS certificate errors will be ignored for this session
+1703085892825	Marionette	INFO	Stopped listening on port 44985
+console.error: Region.jsm: "Failed to fetch region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+1703085969203	geckodriver	INFO	Listening on 127.0.0.1:59339
+1703085969418	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/bin ... 80" "--remote-debugging-port" "37147" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileC5TrQo"
+*** You are running in headless mode.
+1703085976468	Marionette	INFO	Listening on port 36607
+1703085976536	Marionette	WARN	TLS certificate errors will be ignored for this session
+1703085976681	Marionette	INFO	Stopped listening on port 36607
+1703086066329	geckodriver	INFO	Listening on 127.0.0.1:38439
+1703086066539	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/bin ... 80" "--remote-debugging-port" "35411" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileDJDAdZ"
+*** You are running in headless mode.
+1703086073652	Marionette	INFO	Listening on port 44467
+1703086073712	Marionette	WARN	TLS certificate errors will be ignored for this session
+1703086073842	geckodriver	INFO	Listening on 127.0.0.1:43427
+1703086074557	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/bin ... 36" "--remote-debugging-port" "48051" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileWGMkfw"
+*** You are running in headless mode.
+1703086081766	Marionette	INFO	Listening on port 42115
+1703086081882	Marionette	WARN	TLS certificate errors will be ignored for this session
+1703086092525	Marionette	INFO	Stopped listening on port 44467
+JavaScript error: , line 0: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+Crash Annotation GraphicsCriticalError: |[0][GFX1-]: Unrecognized feature VIDEO_OVERLAY (t=405.199) [GFX1-]: Unrecognized feature VIDEO_OVERLAY
+1703086649937	geckodriver	INFO	Listening on 127.0.0.1:54385
+1703086650791	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/bin ... 80" "--remote-debugging-port" "35747" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileOhYO4z"
+*** You are running in headless mode.
+1703086659730	Marionette	INFO	Listening on port 36471
+1703086659828	Marionette	WARN	TLS certificate errors will be ignored for this session
+1703086659954	geckodriver	INFO	Listening on 127.0.0.1:44471
+1703086660778	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/bin ... 36" "--remote-debugging-port" "50913" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileWpXrXK"
+*** You are running in headless mode.
+1703086668745	Marionette	INFO	Listening on port 39759
+1703086668942	Marionette	WARN	TLS certificate errors will be ignored for this session
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PMessagePort::Msg_PostMessages Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PMessagePort::Msg_PostMessages Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1703086695922	Marionette	INFO	Stopped listening on port 36471
