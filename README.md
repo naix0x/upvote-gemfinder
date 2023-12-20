@@ -1,6 +1,6 @@
 ### GEMFINDER AUTO VOTED
 
-Autovote for the gemfinder.cc with a free recaptcha bypass that uses speech to text, and this script doesnt support proxies, for that u can add ur own code to be able to use proxies like api or other things, cuz this is only for example learn educational purposes.
+Autovote for the gemfinder.cc with a free recaptcha bypass that uses speech to text, and this script doesnt support proxies, for that `u can add ur own code to be able to use proxies` like api or other things, cuz this is only for example learn educational purposes.
 
 ### Base
 
@@ -21,7 +21,6 @@ def get_target_url():
 
 ### Error iframe
 
-if you find an iframe error in the results, as below
-`Unable to locate element: //iframe[@title="reCAPTCHA"]`
-that u have voted with that IP address, so the iframe recaptcha is no longer there, the solution is to use a proxy (u can add your own codes for this proxy)
+If u find an iframe error in the results, as below
+`Unable to locate element: //iframe[@title="reCAPTCHA"]` that u have voted with that IP Address, so the iframe recaptcha is no longer there, the solution is to use a proxy (u can add your own codes for this proxy)
 
