@@ -29,3 +29,5 @@ Unable to locate element: //iframe[@title="reCAPTCHA"]
 
 That u have voted with that IP Address, so the iframe recaptcha is no longer there, the solution is to use a proxy (u can add your own codes for this proxy)
 
+### License
+
