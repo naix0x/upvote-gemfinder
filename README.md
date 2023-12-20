@@ -21,6 +21,5 @@ def get_target_url():
 
 ### Error iframe
 
-If u find an iframe error in the results, as below
-`Unable to locate element: //iframe[@title="reCAPTCHA"]` that u have voted with that IP Address, so the iframe recaptcha is no longer there, the solution is to use a proxy (u can add your own codes for this proxy)
+If u find an iframe error in the results, like `Unable to locate element: //iframe[@title="reCAPTCHA"]` that u have voted with that IP Address, so the iframe recaptcha is no longer there, the solution is to use a proxy (u can add your own codes for this proxy)
 
