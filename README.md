@@ -31,5 +31,5 @@ That u have voted with that IP Address, so the iframe recaptcha is no longer the
 
 ### License
 
-Licensed under the [MIT License](https://github.com/naix0x/upvotes-coindizzy/blob/main/LICENSE).
+[MIT License](https://github.com/naix0x/upvotes-coindizzy/blob/main/LICENSE).
 
